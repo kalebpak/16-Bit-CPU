@@ -1,2 +1,2 @@
 # 16-Bit-CPU
-A personal project on creating a 16-bit CPU purely out of logic gates.
+A personal project on creating a 16-bit CPU purely out of logic gates. Attached above is the folder with Logisim files ranging from elementary logic gates created from NAND gates only to full components such as an ALU, all the way up to a full CPU created only from logic gates. cpu.circ contains all of the elementary logic gates created from only NAND gates for easy access when creating the components for the CPU.
